@@ -5,9 +5,9 @@ My first self made repository. Made all by myself, don't wanna be... README adde
 
 Useful links:
 
-[Creator](linkedin.com/in/miguel-r-ferreira)
+[Creator](https://linkedin.com/in/miguel-r-ferreira/)
 
-[Myself profile pic](shorturl.at/sCHIL)
+[Myself profile pic](https://shorturl.at/sCHIL)
 
-[Biography](shorturl.at/yFPV8)
+[Biography](https://shorturl.at/yFPV8)
 
